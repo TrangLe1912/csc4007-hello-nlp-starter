@@ -1,0 +1,8 @@
+sentence-transformers
+faiss-cpu
+rank-bm25
+langchain
+llama-index
+chromadb
+streamlit
+gradio
