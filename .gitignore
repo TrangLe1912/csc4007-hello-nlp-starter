@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.pyc
 *.pyo
@@ -8,15 +7,11 @@ __pycache__/
 venv/
 .env
 
-# Jupyter
 .ipynb_checkpoints/
-
-# OS
 .DS_Store
 
-# Outputs
 logs/*.log
 results/*.json
+results/*.csv
 
-# Caches
 .cache/
