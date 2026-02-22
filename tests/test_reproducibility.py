@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from src.hello_nlp_random import main
+from src.hello_nlp import main
 
 
 def test_reproducible_same_seed():

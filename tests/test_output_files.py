@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
 
-from src.hello_nlp_random import main
+from src.hello_nlp import main
 
 
 def test_outputs_created():
