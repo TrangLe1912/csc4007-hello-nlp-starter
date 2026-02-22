@@ -41,7 +41,7 @@ results/lab0_metrics.json
 
 ## Reproducibility
 
-Seed mặc định = 42 (trong src/hello_nlp_random.py)
+Seed mặc định = 42 (trong src/hello_nlp.py)
 
 ## Responsible use
 
